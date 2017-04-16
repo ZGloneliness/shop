@@ -1,4 +1,4 @@
 <?php
 define('APP_DEBUG',true);
 include("../ThinkPHP/ThinkPHP.php");
-echo "wo gai b"
+echo "第一次改动";
